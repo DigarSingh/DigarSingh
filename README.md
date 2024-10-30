@@ -22,6 +22,7 @@
     <img align="center" src="python.png" alt="Python" height="65" width="65" />
   </a>
 </p>
+
 ###
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=digarsingh&theme=transparent" height="180em" alt="Stats"/>
