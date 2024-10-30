@@ -13,7 +13,15 @@
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35"/>
 </p>
-
+</p>
+<p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
+<p align="center">Currently working on - Private Projects</p>
+<h3 align="center">Most Wanted Language</h3>
+<p align="center">
+  <a href="https://github.com/samarjitsahoo/Python_Programming.git" target="_blank">
+    <img align="center" src="python.png" alt="Python" height="65" width="65" />
+  </a>
+</p>
 ###
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=digarsingh&theme=transparent" height="180em" alt="Stats"/>
