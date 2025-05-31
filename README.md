@@ -2,8 +2,10 @@
   <img src="header.png"/>
   
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=7E3ACE&size=30&pause=1000&width=500&lines=Hi,+I'm+DIGAR+SINGH;Aspiring+Software+Engineer " alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=7E3ACE&size=30&pause=1000&width=500&lines=Hi,+I'm+DIGAR+SINGH;Aspiring+Software+Engineer" alt="Typing SVG" />
 </p>
+
+
 
 
 <p align="center">
