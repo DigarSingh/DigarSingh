@@ -5,20 +5,26 @@
 
   <br/><br/>
 
-  <!-- Profile Views Badge -->
-  <a href="https://github.com/DigarSingh">
-    <img src="https://komarev.com/ghpvc/?username=DigarSingh&label=PROFILE+VIEWS&style=flat-square&color=8A2BE2" alt="Profile Views" />
-  </a>
-
   <!-- Animated Typing Heading -->
-  <a href="https://github.com/DigarSingh">
+  <div>
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&pause=1000&color=9D4EDD&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+DIGAR+SINGH+%F0%9F%91%8B;Aspiring+Software+Engineer;AI+%2F+ML+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
-  </a>
+  </div>
+
+  <br/>
+
+  <!-- Profile Views Badge (Centered on its own line) -->
+  <div>
+    <a href="https://github.com/DigarSingh">
+      <img src="https://komarev.com/ghpvc/?username=DigarSingh&label=PROFILE+VIEWS&style=flat-square&color=8A2BE2" alt="Profile Views" />
+    </a>
+  </div>
 
   <br/>
 
   <!-- Animated Coding Avatar -->
-  <img src="coding.gif" alt="Coding Animation" width="280" />
+  <div>
+    <img src="coding.gif" alt="Coding Animation" width="280" />
+  </div>
 
   <p align="center">
     <em>"I tell computers to do stuff. Sometimes they listen."</em> ⚡
