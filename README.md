@@ -3,6 +3,8 @@
   <!-- Header Banner -->
   <img src="header.png" alt="DIGAR SINGH Banner" width="100%" />
 
+  <br/><br/>
+
   <!-- Profile Views Badge -->
   <a href="https://github.com/DigarSingh">
     <img src="https://komarev.com/ghpvc/?username=DigarSingh&label=PROFILE+VIEWS&style=flat-square&color=8A2BE2" alt="Profile Views" />
@@ -15,7 +17,7 @@
 
   <br/>
 
-  <!-- Animated Coding Avatar/Illustration -->
+  <!-- Animated Coding Avatar -->
   <img src="coding.gif" alt="Coding Animation" width="280" />
 
   <p align="center">
@@ -27,29 +29,33 @@
     🚀 Passionate about <b>Artificial Intelligence</b>, <b>Machine Learning</b> & <b>Full-Stack Engineering</b>
   </p>
 
+  <!-- Fluid Purple Wave Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7e3ace&height=70&section=header" width="100%" />
+
 </div>
 
 ---
 
-### 💫 About Me
+### 🖥️ Developer Terminal
 
-```yaml
-name: Digar Singh
-role: Aspiring Software Engineer & AI/ML Enthusiast
-location: Dehradun, Uttarakhand, India
-focus_areas:
-  - Artificial Intelligence & Machine Learning
-  - Computer Vision & NLP Systems
-  - Full-Stack Web Development & Interoperable Software
-current_focus:
-  - Exploring Advanced Deep Learning & Generative Models
-  - Building AI-driven real-world applications & tools
-soft_skills: [Problem Solving, Creative Thinking, System Design, Team Collaboration]
+```bash
+NITRO-BYTE@Ubuntu:~$ python -m digarsingh.profile
+╭─────────────────────────────────────────────────────────────────────────────╮
+│                                                                             │
+│   👨‍💻  Developer:      Digar Singh                                            │
+│   📍  Location:       Dehradun, Uttarakhand, India                          │
+│   🎓  Role:           Aspiring Software Engineer & AI/ML Developer          │
+│   🧠  Core Focus:     Machine Learning, Deep Learning, Predictive Modeling  │
+│   🌐  Full-Stack:     Next.js, React, Node.js, Systems Interoperability     │
+│   ⚡  Uptime:         Writing code & building intelligent models since 2022  │
+│   💬  Ask Me About:   Python, Java, C++, ML Pipelines, and Computer Vision   │
+│                                                                             │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```
 
 - 🔭 **Currently Building:** High-impact AI applications, risk prediction engines, and smart developer utilities.
 - 🌱 **Currently Exploring:** Deep Learning architectures, PyTorch, and cloud-native deployments.
-- 💬 **Ask Me About:** Python, Machine Learning workflows, C/C++ systems, and full-stack integration.
+- 💬 **Ask Me About:** Python, Java, Machine Learning workflows, C/C++ systems, and full-stack integration.
 - ⚡ **Fun Fact:** When code works on the first run, I get suspicious.
 
 ---
@@ -83,6 +89,7 @@ soft_skills: [Problem Solving, Creative Thinking, System Design, Team Collaborat
     <td align="center" width="25%"><b>Programming Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -185,6 +192,16 @@ soft_skills: [Problem Solving, Creative Thinking, System Design, Team Collaborat
 
 ---
 
+### 🧩 Problem Solving & Competitive Programming
+
+<div align="center">
+  <a href="https://leetcode.com/u/digar_singh/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/digar_singh?theme=radical&font=Baloo%202" alt="Digar's LeetCode Stats" />
+  </a>
+</div>
+
+---
+
 ### 🌐 Connect With Me
 
 <div align="center">
@@ -210,5 +227,7 @@ soft_skills: [Problem Solving, Creative Thinking, System Design, Team Collaborat
 <br/>
 
 <div align="center">
+  <!-- Footer Wave Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7e3ace&height=70&section=footer" width="100%" />
   <sub>Designed with 💜 by <a href="https://github.com/DigarSingh">Digar Singh</a></sub>
 </div>
