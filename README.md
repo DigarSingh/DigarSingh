@@ -1,67 +1,214 @@
-<p align="center">
-  <img src="header.png"/>
-  
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=7E3ACE&size=30&pause=1000&width=500&lines=Hi,+I'm+DIGAR+SINGH;Aspiring+Software+Engineer" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img alt="coding.gif" width="300" height="auto" src="coding.gif"/>
-</p>
-</p>
-<h3 align="center">My interests</h3>
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35"/>
-</p>
-</p>
-<p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
-<p align="center">Currently working on - Private Projects</p>
-<h3 align="center">Most Wanted Language</h3>
-<p align="center">
-  <a href="https://github.com/samarjitsahoo/Python_Programming.git" target="_blank">
-    <img align="center" src="python.png" alt="Python" height="65" width="65" />
+  <!-- Header Banner -->
+  <img src="header.png" alt="DIGAR SINGH Banner" width="100%" />
+
+  <!-- Profile Views Badge -->
+  <a href="https://github.com/DigarSingh">
+    <img src="https://komarev.com/ghpvc/?username=DigarSingh&label=PROFILE+VIEWS&style=flat-square&color=8A2BE2" alt="Profile Views" />
   </a>
-</p>
 
-###
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DigarSingh&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DigarSingh&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DigarSingh&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <!-- Animated Typing Heading -->
+  <a href="https://github.com/DigarSingh">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&pause=1000&color=9D4EDD&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+DIGAR+SINGH+%F0%9F%91%8B;Aspiring+Software+Engineer;AI+%2F+ML+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
+  </a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DigarSingh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <!-- Animated Coding Avatar/Illustration -->
+  <img src="coding.gif" alt="Coding Animation" width="280" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DigarSingh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <p align="center">
+    <em>"I tell computers to do stuff. Sometimes they listen."</em> ⚡
+  </p>
+
+  <p align="center">
+    📍 <b>Dehradun, India</b> &nbsp;|&nbsp;
+    🚀 Passionate about <b>Artificial Intelligence</b>, <b>Machine Learning</b> & <b>Full-Stack Engineering</b>
+  </p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DigarSingh&icon=10&color=0)](https://visitcount.itsvg.in)
 
-###
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### 💫 About Me
 
-###
-</p>
-<h3 align="left">Connect with Me</h3>
-<p align="left">
-<div align="left">
-  <a href="https://www.linkedin.com/in/digar-singh-/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+```yaml
+name: Digar Singh
+role: Aspiring Software Engineer & AI/ML Enthusiast
+location: Dehradun, Uttarakhand, India
+focus_areas:
+  - Artificial Intelligence & Machine Learning
+  - Computer Vision & NLP Systems
+  - Full-Stack Web Development & Interoperable Software
+current_focus:
+  - Exploring Advanced Deep Learning & Generative Models
+  - Building AI-driven real-world applications & tools
+soft_skills: [Problem Solving, Creative Thinking, System Design, Team Collaboration]
+```
+
+- 🔭 **Currently Building:** High-impact AI applications, risk prediction engines, and smart developer utilities.
+- 🌱 **Currently Exploring:** Deep Learning architectures, PyTorch, and cloud-native deployments.
+- 💬 **Ask Me About:** Python, Machine Learning workflows, C/C++ systems, and full-stack integration.
+- ⚡ **Fun Fact:** When code works on the first run, I get suspicious.
+
+---
+
+### 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/DigarSingh/Phishing-URL-Detection">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=DigarSingh&repo=Phishing-URL-Detection&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC" alt="Phishing URL Detection" />
   </a>
-  <a href="https://x.com/digar_singh18" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://instagram.com/https_byte" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://github.com/DigarSingh/GUI-Based-Chat-App">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=DigarSingh&repo=GUI-Based-Chat-App&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC" alt="GUI Based Chat App" />
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/DigarSingh/Crime-Risk-Prediction-and-Geo-Visualization">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=DigarSingh&repo=Crime-Risk-Prediction-and-Geo-Visualization&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC" alt="Crime Risk Prediction" />
+  </a>
+  <a href="https://github.com/DigarSingh/Netflix-Movie-Recommendation-System">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=DigarSingh&repo=Netflix-Movie-Recommendation-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC" alt="Netflix Recommendation System" />
+  </a>
+</div>
 
+---
 
-###
+### 💻 Tech Stack & Tools
+
+<table>
+  <tr>
+    <td align="center" width="25%"><b>Programming Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI, ML & Data Science</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=black" alt="SciPy" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Web & Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools & Environments</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
+      <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Design & Creative</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" />
+      <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Adobe Premiere Pro" />
+      <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="Adobe After Effects" />
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity & Statistics
+
+<div align="center">
+
+  <!-- Main Stats & Languages Aligned -->
+  <a href="https://github.com/DigarSingh">
+    <img src="https://github-stats-extended.vercel.app/api?username=DigarSingh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC&include_all_commits=true&count_private=true" alt="Digar's GitHub Stats" />
+  </a>
+  <a href="https://github.com/DigarSingh">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DigarSingh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&include_all_commits=true&count_private=true" alt="Top Languages" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Contribution Streak Stats -->
+  <a href="https://github.com/DigarSingh">
+    <img src="https://streak-stats.demolab.com/?user=DigarSingh&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7" alt="GitHub Streak" />
+  </a>
+
+  <br/><br/>
+
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/DigarSingh">
+    <img src="https://trophy.ryglcloud.net/?username=DigarSingh&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Random Dev Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/digar-singh-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/digar_singh18" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/https_byte" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/DigarSingh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Designed with 💜 by <a href="https://github.com/DigarSingh">Digar Singh</a></sub>
+</div>
