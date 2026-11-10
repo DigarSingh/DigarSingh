@@ -48,13 +48,13 @@
 NITRO-BYTE@Ubuntu:~$ python -m digarsingh.profile
 ╭─────────────────────────────────────────────────────────────────────────────╮
 │                                                                             │
-│   👨‍💻  Developer:      Digar Singh                                            │
+│   👨‍💻  Developer:      Digar Singh                                           │
 │   📍  Location:       Dehradun, Uttarakhand, India                          │
 │   🎓  Role:           Aspiring Software Engineer & AI/ML Developer          │
 │   🧠  Core Focus:     Machine Learning, Deep Learning, Predictive Modeling  │
 │   🌐  Full-Stack:     Next.js, React, Node.js, Systems Interoperability     │
-│   ⚡  Uptime:         Writing code & building intelligent models since 2022  │
-│   💬  Ask Me About:   Python, Java, C++, ML Pipelines, and Computer Vision   │
+│   ⚡  Uptime:         Writing code & building intelligent models since 2022 │
+│   💬  Ask Me About:   Python, Java, C++, ML Pipelines, and Computer Vision  │
 │                                                                             │
 ╰─────────────────────────────────────────────────────────────────────────────╯
 ```
